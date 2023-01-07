@@ -1,7 +1,7 @@
 # Bot-Trago 🚬
 É um bot bem simples, com comando em slash, feito em Node 16
 ## Quando tiver o node instalado, no terminal digite:
- * npm install discord.js@13.8.1 ou npm i
+ * npm install discord.js@13.6.0 ou npm i
  
 > Com as dependências instaladas é só colocar seu token, guild, client nos devidos locais que eu marquei;
 
